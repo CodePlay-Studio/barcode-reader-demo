@@ -1,4 +1,4 @@
-# barcode-reader-demo
+# Barcode Reader Demo
 
 #### The Mobile Vision API is deprecated and no longer maintained. It is now a part of ML Kit which includes all new on-device ML capabilities. If you use Mobile Vision in your app, follow [the steps here](https://developers.google.com/ml-kit/mobile-vision-migration/android) to migrate from Mobile Vision to ML Kit on Android.
 
