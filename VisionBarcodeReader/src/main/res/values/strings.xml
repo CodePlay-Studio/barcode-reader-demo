@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vision Barcode Reader Demo</string>
+
+    <string name="scanned">SCANNED</string>
+    <string name="code">Code: %1$s</string>
+    <string name="last_scanned">Last Scanned: %1$s</string>
+    <string name="permission_camera_rationale">Access to Camera is needed for barcodes detection.</string>
+    <string name="no_camera_permission">Unable to perform barcode scanning. This app does not have the Camera permission.</string>
+    <string name="dependencies_unavailable">Google Play Services: Barcode detector dependencies is not yet available to process barcodes. Please switch on the Internet connection and try again after it is installed.</string>
+    <string name="low_storage">Google Play Services: Barcode detector dependencies cannot be downloaded due to insufficient storage. Please free up storage and try again.</string>
+</resources>
